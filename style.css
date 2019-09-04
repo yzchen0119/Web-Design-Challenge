@@ -15,7 +15,7 @@ body{
 	margin-left: 50px; 
 	padding: inherit; 
 	font-weight: bold; 
-	background-color: #11b8af;
+	background-color: #38ab87;
 	font-family: Georgia, Times, "Times New Roman", serif;
 }
 
@@ -35,7 +35,7 @@ body{
 /* Media Queries */
 @media (max-width: 991.98px){
 .navbar-expand-lg{
-	background-color: #11b8af;
+	background-color: #38ab87;
 }
 .navbar{
     max-height: none; 
@@ -76,7 +76,7 @@ button:focus {
 .description-header, .imageNav-header {
 	padding-top: 15px; 
 	padding-left: 4px;
-	color: #11b8af;
+	color: #38ab87;
 	font-size: 26px;
 	font-weight: bold;
 	font-family: Georgia, Times, "Times New Roman", serif;
@@ -101,7 +101,7 @@ p{
 
 
 .active, .imageNav-photo:hover{
-    border-color:#11b8af;
+    border-color:#38ab87;
     border-style: solid; 
 }
 
@@ -109,7 +109,7 @@ p{
 	background-color: #505251; 
     border-top-style: solid; 
     border-top-width: 4px; 
-    border-top-color: #11b8af;
+    border-top-color: #38ab87;
     color: white; 
     min-height: 50px; 
     font-family: Arial, Helvetica, sans-serif;
